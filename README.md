@@ -48,7 +48,3 @@ Feel free to modify and customize components using Tailwind CSS classes to fit y
 License
 This project is for educational purposes only and is not affiliated with or endorsed by Nike.
 
-Contact
-For any questions or suggestions, please feel free to reach out via LinkedIn.
-
-This README provides clear steps for setting up and using your project, as well as a concise overview of the technologies and features. Adjust any sections as needed to better fit your project specifics.
